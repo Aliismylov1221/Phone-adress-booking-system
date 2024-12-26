@@ -1,0 +1,6 @@
+address_book/
+    ├── app.py           # Main app file with Flask routes
+    ├── models.py        # Classes for data models
+    ├── controller.py    # Handle business logic (Create, Read, Update, Delete)
+    ├── database.py      # Database connection and initialization
+    └── requirements.txt # List dependencies
